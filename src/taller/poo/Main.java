@@ -29,13 +29,13 @@ public class Main {
                 "\nPrograma o Departamento:"+d2.getPrograma()+
                 "\nsalario:"+d2.getcalcularsalariomensual()+
                         "\n"+
-        "\n"+
+                        "\n"+
                "Docente:"+d3.getNombre()+
                 "\nIdentificacion:"+d3.getID()+
                 "\nPrograma o Departamento:"+d3.getPrograma()+
                 "\nsalario:"+d3.getcalcularsalariomensual()+
                         "\n"+
-        "\n"+
+                        "\n"+
                "Docente:"+d4.getNombre()+
                 "\nIdentificacion:"+d4.getID()+
                 "\nPrograma o Departamento:"+d4.getPrograma()+
